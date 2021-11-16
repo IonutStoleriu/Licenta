@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\opencv\build\include\opencv2\flann\result_set.h(309): warning C4003: not enough actual parameters for macro 'max'
+c:\opencv\build\include\opencv2\flann\result_set.h(431): warning C4003: not enough actual parameters for macro 'max'
+c:\opencv\build\include\opencv2\flann\lsh_index.h(209): warning C4003: not enough actual parameters for macro 'max'
+c:\opencv\build\include\opencv2\flann\lsh_index.h(275): warning C4003: not enough actual parameters for macro 'max'
+opencv_world450.lib(opencv_world450.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
